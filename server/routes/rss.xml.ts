@@ -6,16 +6,16 @@ export default defineEventHandler(async (event) => {
   setHeader(event, 'content-type', 'text/xml')
   const docs = await queryCollection(event, 'content').all()
   const feed = new Feed({
-    title: "Riyad's personal blog site",
-    description: "Riyad's personal blog site",
+    title: "Meshcore limburg blog site",
+    description: "Meshcore limburg blog site",
     id: basePath,
     link: basePath,
-    language: 'en',
+    language: 'nl',
     favicon: `${basePath}/favicon.ico`,
     copyright: 'MIT',
     author: {
-      name: 'Al Asad Nur Riyad',
-      email: 'asadnurriyad@gmail.com',
+      name: 'Glenn',
+      email: '',
       link: basePath,
     },
   })
