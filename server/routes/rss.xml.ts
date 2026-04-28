@@ -6,8 +6,8 @@ export default defineEventHandler(async (event) => {
   setHeader(event, 'content-type', 'text/xml')
   const docs = await queryCollection(event, 'content').all()
   const feed = new Feed({
-    title: "Meshcore limburg blog site",
-    description: "Meshcore limburg blog site",
+    title: "ACK868 Limburg",
+    description: "De limburgse site voor Meshcore en andere off-grid communicatie informatie",
     id: basePath,
     link: basePath,
     language: 'nl',
