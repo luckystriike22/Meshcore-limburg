@@ -1,37 +1,36 @@
 export const navbarData = {
-  homeTitle: "Riyad's Blog",
+  homeTitle: "ACK868 Blog",
 }
 
 export const footerData = {
-  author: 'Al Asad Nur Riyad',
-  aboutAuthor: 'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at FieldNation LLC.',
-  authorInterest:
-    "I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let's connect.",
+  author: 'Glenn',
+  aboutAuthor: 'Hi! Mijn naam is Glenn. Software engineer en Meshcore liefhebber.',
+  authorInterest:"",
   aboutTheSite:
-    "This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it's deployed in Vercel.",
+    "Welkom bij ACK868 Limburg. Dé site met informatie over MeshCore, radio en off-gridcommunicatie in Limburg. Wij zijn een groep hobbyisten die genieten van knutselen met antennes, software en radiogolven.",
 }
 
 export const homePage = {
-  title: 'Welcome To My Blog Site',
+  title: 'Welkom by ACK868 Limburg',
   description:
-    'Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+    'Welkom bij ACK868 Limburg. Dé site met informatie over MeshCore, radio en off-gridcommunicatie in Limburg. Wij zijn een groep hobbyisten die genieten van knutselen met antennes, software en radiogolven.',
 }
 
 export const blogsPage = {
-  title: 'All Blogs',
-  description: 'Here you will find all the blog posts I have written & published on this site.',
+  title: 'Alle Blogs',
+  description: 'Hier delen wij interessante informatie en activiteiten.',
 }
 
 export const categoryPage = {
-  title: 'Categories',
-  description: 'Blow this category is generated from all the tags are mentioned in the different blog post',
+  title: 'Onderwerpen',
+  description: 'Blog onderwerpen',
 }
 
 export const aboutPage = {
-  title: 'Al Asad Nur Riyad',
-  description: 'Software Engineer, Problem Solver, Web Enthusiast.',
+  title: 'Over ACK868LI',
+  description: 'Een groep radio communicatie liefhebbers',
   aboutMe:
-    "Hello, fellow human! I'm a software wizard who spends most of his day crafting code spells at @FieldNation in the Workplace Operation team. When I'm not crafting code, you can find me summoning solutions to problems on online judges. Just don't ask me to cast any love spells, my magic only works on machines!",
+    "",
 }
 
 export const seoData = {
