@@ -29,14 +29,13 @@ export const categoryPage = {
 export const aboutPage = {
   title: 'Over ACK868LI',
   description: 'Een groep radio communicatie liefhebbers',
-  aboutMe:
-    "",
+  aboutMe: "Mijn naam is Glenn. Software engineer en Meshcore liefhebber.",
 }
 
 export const seoData = {
-  title: `Riyad's Blog | Riyads Blog`,
-  ogTitle: `Let's learn Javascript, Typescript, Vue, Nuxt, & Problem Solving - Riyads Blog | Riyad's Blog`,
-  description: `Hi I am Riyad. A Software Engineer at FieldNation, with over 3.5+ years experience in software development. - Riyads Blog | Riyad's Blog`,
+  title: `ACK868 Limburg`,
+  ogTitle: `ACK868 Limburg een site van en voor Meshcore enthusiasten.`,
+  description: `Welkom bij ACK868 Limburg. Dé site met informatie over MeshCore, radio en off-gridcommunicatie in Limburg. Wij zijn een groep hobbyisten die genieten van knutselen met antennes, software en radiogolven.`,
   twitterDescription: `Riyad's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - Riyads Blog | Riyad's Blog`,
   image: 'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
   mySite: 'https://blog-nurriyad.vercel.app',
