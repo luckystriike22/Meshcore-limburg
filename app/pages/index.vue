@@ -7,16 +7,16 @@ useHead({
     {
       name: 'description',
       content:
-        'Welcome To My Blog Site. Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+        'Welkom bij ACK868 Limburg. Dé site met informatie over MeshCore, radio en off-gridcommunicatie in Limburg. Wij zijn een groep hobbyisten die genieten van knutselen met antennes, software en radiogolven.',
     },
   ],
 })
 
 // Generate OG Image
 defineOgImageComponent('About', {
-  headline: 'Greetings 👋',
+  headline: '👋',
   title: navbarData.homeTitle,
-  description: 'Dive into web development with me and learn Js, Ts, Vue, Nuxt, Docker, k8s',
+  description: 'Welkom bij ACK868 Limburg. Dé site met informatie over MeshCore, radio en off-gridcommunicatie in Limburg. Wij zijn een groep hobbyisten die genieten van knutselen met antennes, software en radiogolven.',
   link: '/riyad.jpg',
 })
 </script>
